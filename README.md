@@ -4,9 +4,9 @@
 
 - [ ] Experiencing `3#`
   - [ ] UROP `3#`
-  - [ ] ~~UTOP~~ `3#`
-  - [ ] ~~UPOP~~ `3#`
-  - [ ] ~~UCOP~~ `3#`
+  - [ ] UTOP
+  - [ ] UPOP
+  - [ ] UCOP
 - [ ] Broadening `12#`
   - [ ] Arts `3#`
   - [ ] Humanities `3#`
@@ -20,7 +20,7 @@
   - [x] LANG 1407 `3#` `Sem 2`
   - [ ] C-Comm `3#`
 
-## BEing in ElEC
+## BEng in ELEC
 
 ### Fundamentals
 
@@ -82,7 +82,7 @@
 
   - [x] ELEC 5650 `3#` `Sem 2`
 
-## Extended Major in AI
+## ExtM in AI
 
 At least 12 single-counted `@` credits 
 
@@ -116,7 +116,7 @@ At least 9 single-counted `@` credits
 - [ ] Lie Group `3#` `@`
 - [ ] Differential Geom `3#` `@` 
 - [ ] Topology / Complex Analysis `3#` `@`
-- [ ] COMP 2711 `?` -> MATH 2343
+- [ ] COMP 2711 - `?` -> MATH 2343
 
 ## Others
 
