@@ -69,7 +69,7 @@
 
 - [ ] Expected: `21#`, Earned: `6#`
   - [x] ELEC 3200 `3#` `Sem 1`
-		- [x] ELEC 3210 `0#` `Sem 1`
+  - [x] ELEC 3210 `0#` `Sem 1`
   - [x] ELEC 5650 `3#` `Sem 2`
 
 ## ExtM in AI
