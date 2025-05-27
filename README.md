@@ -35,7 +35,6 @@
   - [ ] COMP 1022P
   - [x] COMP 2011 `4#` `Sem 2`
   - [ ] COMP 2012H
-
 - [x] MATH `6#`
   - [ ] MATH 1012
   - [x] MATH 1013 `3#` `Sem 1`
@@ -52,22 +51,15 @@
 ### Required
 
 - [ ] ELEC `20#`
-
   - [x] ELEC 1100 `4#` `Sem 2`
-
   - [ ] ELEC 1200 `4#`
-
   - [ ] ELEC 2100 `4#`
-
   - [x] ELEC 2350 `4#` `Sem 1` `COMP 2611 4#`
-
   - [ ] ELEC 2400 `4#`
-
 - [ ] Seminar `0#`
   - [ ] ELEC 2010 `0#`
   - [ ] ELEC 2910 `0#`
   - [ ] ELEC 3910 `0#`
-
 - [ ] Project `6#`
   - [ ] ELEC 2991 Intern `0#`
   - [ ] ELEC 4900 FYP `6#` 
@@ -77,7 +69,6 @@
 ### Electives
 
 - [ ] Expected: `21#`, Earned: `6#`
-
   - [x] ELEC 3200 `3#` `Sem 1`
 		- [x] ELEC 3210 `0#` `Sem 1`
   - [x] ELEC 5650 `3#` `Sem 2`
@@ -91,7 +82,6 @@ At least 12 single-counted `@` credits
   - [ ] EMIA 2020 `3#` `@`
   - [ ] EMIA 4990 `0#`
   - [ ] EMIA 4991 `3#` `@`
-
 - [ ] EMIA/COMP/MATH
   - [ ] EMIA 4110
   - [ ] COMP 4211
@@ -102,7 +92,6 @@ At least 12 single-counted `@` credits
   - [ ] COMP 2012H
   - [ ] COMP 2211
   - [ ] COMP 3211
-
 - [ ] Electives `6-9#`
 
 ## Minor in MATH
@@ -110,7 +99,6 @@ At least 12 single-counted `@` credits
 At least 9 single-counted `@` credits
 
 - [ ] MATH 2121 `4#`
-
 - [ ] MATH  2023 `4#`
 - [ ] MATH 2033 `4#` `@`
 - [ ] Lie Group `3#` `@`
@@ -144,3 +132,7 @@ At least 9 single-counted `@` credits
 - LANG 1407 `3#`
 - MATH 1014 `3#`
 - PHYS 1112 `3#`
+
+### Summer `4#`
+
+- ELEC 2600 `4#`
