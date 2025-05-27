@@ -12,7 +12,6 @@
   - [ ] Humanities `3#`
   - [ ] Science `3#`
   - [ ] Social Analysis `3#`
-
 - [ ] Foundations `15#`
   - [ ] CTDL `3#`
   - [x] HMAW 1905 `3#` `Sem 1 + Sem 2`
