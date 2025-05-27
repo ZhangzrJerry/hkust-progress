@@ -79,7 +79,7 @@
 - [ ] Expected: `21#`, Earned: `6#`
 
   - [x] ELEC 3200 `3#` `Sem 1`
-
+		- [x] ELEC 3210 `0#` `Sem 1`
   - [x] ELEC 5650 `3#` `Sem 2`
 
 ## ExtM in AI
@@ -121,3 +121,26 @@ At least 9 single-counted `@` credits
 ## Others
 
 - [x] COMP 2711 `4#` `Sem 1`
+
+## Semesters
+
+### Sem 1 `19#`
+
+- COMP 2611 `4#`
+- COMP 2711 `4#`
+- COMP 3711 `0#`
+- ELEC 3200 `4#`
+- ELEC 3210 `0#`
+- HMAW 1905 `1#`
+- LANG 1402 `3#`
+- MATH 1013 `3#`
+
+### Sem 2 `22#`
+
+- COMP 2012 `4#`
+- ELEC 1100 `4#`
+- ELEC 5650 `3#`
+- HMAW 1905 `2#`
+- LANG 1407 `3#`
+- MATH 1014 `3#`
+- PHYS 1112 `3#`
