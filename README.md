@@ -25,8 +25,8 @@
 
 - [ ] ELEC/MATH `10#`
   - [x] ELEC 2600 `4#` `Summer`
-  - [ ] MATH 2011 `3#` `MATH 2121 4#`
-  - [ ] MATH 2111 `3#` `MATH 2023 4#`
+  - [ ] MATH 2011 `3#` `Sem 4`
+  - [ ] MATH 2111 `3#` `Sem 4`
   - [ ] MATH 2350
   - [ ] MATH 2351
 - [x] COMP `4#`
@@ -43,7 +43,7 @@
   - [ ] MATH 1024
 - [ ] PHYS `6#`
   - [x] PHYS 1112 `3#` `Sem 1`
-  - [ ] PHYS 1114 `3#` 
+  - [ ] PHYS 1114 `3#` `Sem 3`
   - [ ] PHYS 1312
   - [ ] PHYS 1314
 
@@ -71,39 +71,6 @@
   - [x] ELEC 3200 `3#` `Sem 1`
   - [x] ELEC 3210 `0#` `Sem 1`
   - [x] ELEC 5650 `3#` `Sem 2`
-
-## ExtM in AI
-
-At least 12 single-counted `@` credits 
-
-- [ ] EMIA
-  - [ ] EMIA 2010A `0#`
-  - [ ] EMIA 2020 `3#` `@`
-  - [ ] EMIA 4990 `0#`
-  - [ ] EMIA 4991 `3#` `@`
-- [ ] EMIA/COMP/MATH
-  - [ ] EMIA 4110
-  - [ ] COMP 4211
-  - [ ] MATH 4432
-- [ ] COMP
-  - [x] COMP 2011 `4#`
-  - [ ] COMP 2012
-  - [ ] COMP 2012H
-  - [ ] COMP 2211
-  - [ ] COMP 3211
-- [ ] Electives `6-9#`
-
-## Minor in MATH
-
-At least 9 single-counted `@` credits
-
-- [ ] MATH 2121 `4#`
-- [ ] MATH  2023 `4#`
-- [ ] MATH 2033 `4#` `@`
-- [ ] Lie Group `3#` `@`
-- [ ] Differential Geom `3#` `@` 
-- [ ] Topology / Complex Analysis `3#` `@`
-- [ ] COMP 2711 - `?` -> MATH 2343
 
 ## Others
 
