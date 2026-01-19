@@ -41,9 +41,9 @@
   - [ ] MATH 1020
   - [ ] MATH 1023
   - [ ] MATH 1024
-- [ ] PHYS `6#`
+- [x] PHYS `6#`
   - [x] PHYS 1112 `3#` `Sem 1`
-  - [ ] PHYS 1114 `3#` `Sem 3`
+  - [x] PHYS 1114 `3#` `Sem 3`
   - [ ] PHYS 1312
   - [ ] PHYS 1314
 
@@ -67,10 +67,13 @@
 
 ### Electives
 
-- [ ] Expected: `21#`, Earned: `6#`
+- [ ] Expected: `21#`, Earned: `12#`
   - [x] ELEC 3200 `3#` `Sem 1`
   - [x] ELEC 3210 `0#` `Sem 1`
   - [x] ELEC 5650 `3#` `Sem 2`
+  - [x]  ELEC 4220 `3#` `Sem 3`
+  - [x]  ELEC 5470 `3#` `Sem 3`
+  - [x]  ELEC 5630 `3#` `Sem 3`
 
 ## Others
 
@@ -102,3 +105,10 @@
 ### Summer `4#`
 
 - ELEC 2600 `4#`
+
+### Sem 3 `12#`
+
+- PHYS 1114 `3#`
+- ELEC 4220 `3#`
+- ELEC 5470 `3#`
+- ELEC 5630 `3#`
